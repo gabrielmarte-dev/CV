@@ -1,0 +1,259 @@
+{
+  "basics": {
+    "name": "Wilson Gabriel Marte Borrero",
+    "label": "Backend Developer | Desarrollo de Software",
+    "image": "/me.jpg",
+    "email": "gmarte303@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "Estudiante del tecnólogo en Desarrollo de Software, actualmente cursando el cuarto cuatrimestre. Apasionado por construir aplicaciones web escalables, con conocimientos en programación orientada a objetos, bases de datos y estructuras de datos. En proceso de fortalecer habilidades en desarrollo backend a través de proyectos personales y académicos. Busco oportunidades para aplicar mis conocimientos y crecer profesionalmente en el campo del desarrollo de software.",
+    "location": {
+      "address": "",
+      "postalCode": "11500",
+      "city": "Santo Domingo",
+      "countryCode": "DO",
+      "region": "República Dominicana"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Wilson Gabriel Marte Borrero",
+        "url": "https://linkedin.com/in/gabrielmarte-dev"
+      },
+      {
+        "network": "GitHub",
+        "username": "gabrielmarte-dev",
+        "url": "https://github.com/gabrielmarte-dev"
+      },
+      {
+        "network": "Instagram",
+        "username": "gabrielmarte.dev",
+        "url": "https://www.instagram.com/gabrielmarte_"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de las Américas (ITLA)",
+      "url": "https://www.itla.edu.do/",
+      "area": "Tecnólogo en Desarrollo de Software",
+      "studyType": "Grado Tecnólogo",
+      "startDate": "2024-09",
+      "endDate": null,
+      "courses": []
+    },
+    {
+      "institution": "Politécnico Francisco Adalberto García Pérez",
+      "url": "",
+      "area": "Bachiller en Técnico en Soporte de Redes y Sistemas Informáticos",
+      "studyType": "Bachillerato",
+      "startDate": "2020-09",
+      "endDate": "2023-06",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "1",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Fundamentos de TI",
+      "date": 2025,
+      "issuer": "Cisco Networking Academy",
+      "url": "https://www.credly.com/badges/60dc2c63-985d-4d5a-a273-c9bb51e55d88"
+    },
+    {
+      "name": "Introducción a la Programación",
+      "date": 2024,
+      "issuer": "Instituto Tecnológico de las Américas (ITLA)",
+      "url": "https://orbi.edu.do/orbi/educacionpermanente/cursosaprobados/imprimirCertificadoEstudiante/76897/248978"
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "React",
+      "level": "Basico",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "Basico",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "C#",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo de Software",
+        "Backend",
+        "Programación Orientada a Objetos"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "Framework", "Java EE"]
+    },
+    {
+      "name": ".NET",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "Framework", "C#"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "SQL Server",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "En progreso"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Desarrollo de Software",
+      "keywords": ["Backend", "Frontend", "Fullstack"]
+    },
+    {
+      "name": "Ciberseguridad Ética",
+      "keywords": ["Protección de aplicaciones", "Pentesting"]
+    },
+    {
+      "name": "Inteligencia Artificial",
+      "keywords": ["Automatización", "Machine Learning básico"]
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Calculator",
+      "isActive": true,
+      "description": "Aplicación web de calculadora con historial interactivo y diseño responsive.",
+      "highlights": [
+        "Diseño atractivo",
+        "Gestión de historial",
+        "Fortalecimiento de lógica"
+      ],
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "url": "https://calculator-alpha-bice-64.vercel.app/",
+      "github": "https://github.com/gabrielmarte-dev/Calculator"
+    },
+    {
+      "name": "CodeQR",
+      "isActive": true,
+      "description": "Generador de códigos QR a partir de textos y URLs, con opción de descarga.",
+      "highlights": ["Generación rápida", "Interfaz amigable"],
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "url": "https://code-qr-theta.vercel.app/",
+      "github": "https://github.com/gabrielmarte-dev/CodeQR"
+    },
+    {
+      "name": "RentEasy",
+      "isActive": true,
+      "description": "Plataforma Desktop para alquiler de propiedades, facilitando la conexión entre propietarios e inquilinos.",
+      "highlights": ["Gestión de propiedades", "Interfaz intuitiva"],
+      "technologies": ["Java", "JavaSwing"],
+      "github": "https://github.com/gabrielmarte-dev/RentEasy"
+    },
+    {
+      "name": "jpgaultier-landing",
+      "isActive": true,
+      "description": "Landing page inspirada en los perfumes de Jean Paul Gaultier.",
+      "highlights": ["Diseño responsivo", "Estética atractiva"],
+      "technologies": ["HTML", "CSS"],
+      "url": "https://jpgaultier-landing.vercel.app/",
+      "github": "https://github.com/gabrielmarte-dev/jpgaultier-landing"
+    },
+    {
+      "name": "BibliotecaAPI",
+      "isActive": true,
+      "description": "API RESTful para la gestión de una biblioteca, permitiendo operaciones CRUD en libros y autores.",
+      "highlights": ["Operaciones CRUD", "Estructura RESTful"],
+      "technologies": ["C#", ".NET"],
+      "github": "https://github.com/gabrielmarte-dev/BibliotecaAPI"
+    },
+    {
+      "name": "ATM Simulation",
+      "isActive": true,
+      "description": "Simulación de un cajero automático (ATM) que permite a los usuarios realizar operaciones bancarias básicas.",
+      "highlights": ["Simulación realista", "Interfaz intuitiva"],
+      "technologies": ["C#", "Windows Forms"],
+      "github": "https://github.com/gabrielmarte-dev/ATM-Simulation"
+    }
+  ]
+}

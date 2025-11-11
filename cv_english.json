@@ -1,0 +1,227 @@
+{
+  "basics": {
+    "name": "Wilson Gabriel Marte Borrero",
+    "label": "Backend Developer | Software Development",
+    "image": "/me.jpg",
+    "email": "gmarte303@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "Technologist student in Software Development, currently in the fourth semester. Passionate about building scalable web applications, with knowledge in object-oriented programming, databases, and data structures. Strengthening backend development skills through personal and academic projects. Seeking opportunities to apply my knowledge and grow professionally in software development.",
+    "location": {
+      "address": "",
+      "postalCode": "11500",
+      "city": "Santo Domingo",
+      "countryCode": "DO",
+      "region": "Dominican Republic"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Wilson Gabriel Marte Borrero",
+        "url": "https://linkedin.com/in/gabrielmarte-dev"
+      },
+      {
+        "network": "GitHub",
+        "username": "gabrielmarte-dev",
+        "url": "https://github.com/gabrielmarte-dev"
+      },
+      {
+        "network": "Instagram",
+        "username": "gabrielmarte.dev",
+        "url": "https://www.instagram.com/gabrielmarte_"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de las Américas (ITLA)",
+      "url": "https://www.itla.edu.do/",
+      "area": "Technologist in Software Development",
+      "studyType": "Technologist Degree",
+      "startDate": "2024-09",
+      "endDate": null,
+      "courses": []
+    },
+    {
+      "institution": "Politécnico Francisco Adalberto García Pérez",
+      "url": "",
+      "area": "High School Diploma in Network and Systems Support",
+      "studyType": "High School",
+      "startDate": "2020-09",
+      "endDate": "2023-06",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "1",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "React",
+      "level": "Basic",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "Basic",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "C#",
+      "level": "Advanced",
+      "keywords": [
+        "Software Development",
+        "Backend",
+        "Object-Oriented Programming"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Backend", "Framework", "Java EE"]
+    },
+    {
+      "name": ".NET",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Backend", "Framework", "C#"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Advanced",
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
+    },
+    {
+      "name": "SQL Server",
+      "level": "Advanced",
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanced",
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+    }
+  ],
+  "languages": [
+    { "language": "Spanish", "fluency": "Native" },
+    { "language": "English", "fluency": "In progress" }
+  ],
+  "interests": [
+    {
+      "name": "Software Development",
+      "keywords": ["Backend", "Frontend", "Fullstack"]
+    },
+    {
+      "name": "Ethical Cybersecurity",
+      "keywords": ["Application protection", "Pentesting"]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": ["Automation", "Basic Machine Learning"]
+    }
+  ],
+  "references": [{ "name": "", "reference": "" }],
+  "projects": [
+    {
+      "name": "Calculator",
+      "isActive": true,
+      "description": "Web calculator application with interactive history and responsive design.",
+      "highlights": [
+        "Attractive design",
+        "History management",
+        "Strengthened logic"
+      ],
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "url": "https://calculator-alpha-bice-64.vercel.app/",
+      "github": "https://github.com/gabrielmarte-dev/Calculator"
+    },
+    {
+      "name": "CodeQR",
+      "isActive": true,
+      "description": "QR code generator from text and URLs, with download option.",
+      "highlights": ["Fast generation", "User-friendly interface"],
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "url": "https://code-qr-theta.vercel.app/",
+      "github": "https://github.com/gabrielmarte-dev/CodeQR"
+    },
+    {
+      "name": "RentEasy",
+      "isActive": true,
+      "description": "Desktop platform for property rentals, facilitating connections between owners and tenants.",
+      "highlights": ["Property management", "Intuitive interface"],
+      "technologies": ["Java", "JavaSwing"],
+      "github": "https://github.com/gabrielmarte-dev/RentEasy"
+    },
+    {
+      "name": "jpgaultier-landing",
+      "isActive": true,
+      "description": "Landing page inspired by Jean Paul Gaultier.",
+      "highlights": ["Responsive design", "Attractive aesthetics"],
+      "technologies": ["HTML", "CSS"],
+      "url": "https://jpgaultier-landing.vercel.app/",
+      "github": "https://github.com/gabrielmarte-dev/jpgaultier-landing"
+    },
+    {
+      "name": "BibliotecaAPI",
+      "isActive": true,
+      "description": "RESTful API for library management, allowing CRUD operations on books and authors.",
+      "highlights": ["CRUD operations", "RESTful structure"],
+      "technologies": ["C#", ".NET"],
+      "github": "https://github.com/gabrielmarte-dev/BibliotecaAPI"
+    },
+    {
+      "name": "ATM Simulation",
+      "isActive": true,
+      "description": "Simulation of an ATM allowing users to perform basic banking operations.",
+      "highlights": ["Realistic simulation", "Intuitive interface"],
+      "technologies": ["C#", "Windows Forms"],
+      "github": "https://github.com/gabrielmarte-dev/ATM-Simulation"
+    }
+  ]
+}
