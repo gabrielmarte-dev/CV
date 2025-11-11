@@ -5,7 +5,7 @@
     "image": "/me.jpg",
     "email": "gmarte303@gmail.com",
     "phone": "",
-    "url": "",
+    "url": "https://portafolio-ten-puce-49.vercel.app/",
     "summary": "Estudiante del tecnólogo en Desarrollo de Software, actualmente cursando el cuarto cuatrimestre. Apasionado por construir aplicaciones web escalables, con conocimientos en programación orientada a objetos, bases de datos y estructuras de datos. En proceso de fortalecer habilidades en desarrollo backend a través de proyectos personales y académicos. Busco oportunidades para aplicar mis conocimientos y crecer profesionalmente en el campo del desarrollo de software.",
     "location": {
       "address": "",
@@ -71,7 +71,7 @@
       "name": "Introducción a la Programación",
       "date": 2024,
       "issuer": "Instituto Tecnológico de las Américas (ITLA)",
-      "url": "https://orbi.edu.do/orbi/educacionpermanente/cursosaprobados/imprimirCertificadoEstudiante/76897/248978"
+      "url": "https://orbi.edu.do/orbi/educacionpermanente/cursosaprobados/qr/248978/76897"
     }
   ],
   "publications": [
@@ -210,7 +210,7 @@
         "Fortalecimiento de lógica"
       ],
       "technologies": ["JavaScript", "HTML", "CSS"],
-      "url": "https://calculator-alpha-bice-64.vercel.app/",
+      "url": "https://calculator-two-bice-82.vercel.app/",
       "github": "https://github.com/gabrielmarte-dev/Calculator"
     },
     {
@@ -219,7 +219,7 @@
       "description": "Generador de códigos QR a partir de textos y URLs, con opción de descarga.",
       "highlights": ["Generación rápida", "Interfaz amigable"],
       "technologies": ["JavaScript", "HTML", "CSS"],
-      "url": "https://code-qr-theta.vercel.app/",
+      "url": "https://code-qr-gilt.vercel.app/",
       "github": "https://github.com/gabrielmarte-dev/CodeQR"
     },
     {
