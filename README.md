@@ -62,7 +62,7 @@ npm create astro@latest -- --template gabrielmarte-dev/cv
 
 ### 2. Añade tu contenido:
 
-Edita el archivo `cv.json` para crear tu propio CV/CV imprimible.
+Edita el archivo `cv_spanish.json` para crear tu propio CV imprimible.
 
 ### 3. Lanza el servidor de desarrollo:
 
