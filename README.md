@@ -37,7 +37,7 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 <div align="center">
 
 ![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/portafolio)
+![GitHub stars](https://img.shields.io/github/stars/cv)
 
 </div>
 
@@ -51,18 +51,18 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 
 ## 🚀 Empezar
 
-### 1. Usa este [repo](https://github.com/gabrielmarte-dev/portafolio) como _template_ de un proyecto de Astro
+### 1. Usa este [repo](https://github.com/gabrielmarte-dev/cv) como _template_ de un proyecto de Astro
 
 - Yo uso [npm](https://docs.npmjs.com/cli/v8/commands/npm-install) como gestor de dependencias y empaquetador.
 
 ```bash
 # Inicializa el proyecto
-npm create astro@latest -- --template gabrielmarte-dev/portafolio
+npm create astro@latest -- --template gabrielmarte-dev/cv
 ```
 
 ### 2. Añade tu contenido:
 
-Edita el archivo `cv.json` para crear tu propio Portafolio/CV imprimible.
+Edita el archivo `cv.json` para crear tu propio CV/CV imprimible.
 
 ### 3. Lanza el servidor de desarrollo:
 
