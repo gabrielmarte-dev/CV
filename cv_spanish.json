@@ -210,7 +210,7 @@
         "Fortalecimiento de lógica"
       ],
       "technologies": ["JavaScript", "HTML", "CSS"],
-      "url": "https://calculator-two-bice-82.vercel.app/",
+      "url": "https://calculator.gmarte.tech/",
       "github": "https://github.com/gabrielmarte-dev/Calculator"
     },
     {
@@ -219,7 +219,7 @@
       "description": "Generador de códigos QR a partir de textos y URLs, con opción de descarga.",
       "highlights": ["Generación rápida", "Interfaz amigable"],
       "technologies": ["JavaScript", "HTML", "CSS"],
-      "url": "https://code-qr-gilt.vercel.app/",
+      "url": "https://qr.gmarte.tech/",
       "github": "https://github.com/gabrielmarte-dev/CodeQR"
     },
     {
@@ -236,7 +236,7 @@
       "description": "Landing page inspirada en los perfumes de Jean Paul Gaultier.",
       "highlights": ["Diseño responsivo", "Estética atractiva"],
       "technologies": ["HTML", "CSS"],
-      "url": "https://jpgaultier-landing.vercel.app/",
+      "url": "https://jpgaultier.gmarte.tech/",
       "github": "https://github.com/gabrielmarte-dev/jpgaultier-landing"
     },
     {
